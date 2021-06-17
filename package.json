@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "private": true,
   "scripts": {
-    "start": "node ./server.js -e img"
+    "start": "node ./server"
   },
   "engines": {
     "node": "^14.17.0",
